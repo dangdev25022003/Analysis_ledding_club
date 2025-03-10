@@ -25,7 +25,6 @@ Dự án **Analysis Ledding Club** nhằm thu thập, lựa chọn mô hình và
    source env/bin/activate  # Trên macOS/Linux
    env\Scripts\activate  # Trên Windows
    ```
-   ```
 3. Mở Jupyter Notebook và chạy file `All_CODE_KPDL.ipynb`:
    ```bash
    jupyter notebook
